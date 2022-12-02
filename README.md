@@ -1,2 +1,2 @@
 #!/bin/bash
-# alx-system_engineering-devops
+this is description of the repo

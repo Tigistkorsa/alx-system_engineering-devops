@@ -1,1 +1,1 @@
-this all about the description 
+description about the project

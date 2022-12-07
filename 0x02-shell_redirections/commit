@@ -1,0 +1,5 @@
+#!/bin/bash
+git add .
+echo "project work"
+git commit -m $msg
+git push
